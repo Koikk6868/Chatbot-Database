@@ -14,7 +14,7 @@ public class DatabaseManager {
 
         config.setJdbcUrl("jdbc:mysql://localhost:3306/chatbotjava");
         config.setUsername("root");
-        config.setPassword("$MinhKhoi123$");
+        config.setPassword("");
 
         config.addDataSourceProperty("cachePrepStmts", "true");
         config.addDataSourceProperty("prepStmtCacheSize", "250");

@@ -9,7 +9,7 @@ public class DatabaseBackup {
     private static final String MYSQL_DUMP_PATH = "D:/MySQL/MySQL Server 8.0/bin/mysqldump.exe";
     private static final String DB_NAME = "chatbotjava";
     private static final String DB_USER = "root";
-    private static final String DB_PASS = "$MinhKhoi123$";
+    private static final String DB_PASS = "";
 
     /**
      * Exports the database to a .sql file in the specified folder.
